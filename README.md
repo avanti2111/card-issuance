@@ -209,6 +209,15 @@ mvn clean test
 
 ---
 
+## Potential Improvements
+
+- Retry mechanism for optimistic locking failures
+- Pagination for transaction history
+- Authentication & authorization
+- Persistent database (PostgreSQL/MySQL)
+- Event-driven processing using a message queue
+
+---
 
 ## Tech Stack
 
